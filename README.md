@@ -122,7 +122,7 @@ Any animation in a web application starts with CSS. Eventually you will notice t
 
 If you really want to build charts from the ground up yourself, there is no way around [D3](https://d3js.org/). It's a low level visualization library that gives you everything you need to create amazing charts. However, learning D3 is a whole other adventure, thus many developers just pick a React charting library which does everything in exchange for flexibility. Popular solutions are:
 
-- [Recharts]() (personal recommendation)
+- [Recharts](https://recharts.org/en-US/) (personal recommendation)
   - off the shelf charts
   - great composability
   - optional customization due to opt-in composability
